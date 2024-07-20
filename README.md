@@ -1,4 +1,4 @@
-Approach:
+About this Project:
 
 MongoDB Connection and Data Retrieval: Establish a connection to the MongoDB Atlas database and retrieve the Airbnb dataset. Perform queries and data retrieval operations to extract the necessary information for your analysis.
 Data Cleaning and Preparation: Clean the Airbnb dataset by handling missing values, removing duplicates, and transforming data types as necessary. Prepare the dataset for EDA and visualization tasks, ensuring data integrity and consistency.
